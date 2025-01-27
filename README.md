@@ -26,7 +26,6 @@ Please also see following documents:
 ## 🏅Displaying Achievements
 
 - Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
-
 - You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
 ### 📃Achievement List
@@ -43,18 +42,15 @@ Please also see following documents:
 | ![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 | ![Public Sponsor](/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png)                 | Public Sponsor        | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
-
 ### 👋Achievement Skin Tone
 
 - Some achievements' appearance depends on your Emoji Skin Tone Preference.
-
 - You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
 
 | Badge | Name | Skin Tone Versions | 
 | :-: | :-: | :-: |
 | ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 | ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
-
 
 ### ✨Highlights Badges
 
@@ -66,10 +62,7 @@ Please also see following documents:
 | ![github-campus-expert-dark](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only)![github-campus-expert-light](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
 | ![security-advisory-credit-dark](/Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_LightMode.svg#gh-dark-mode-only)![security-advisory-credit-light](/Media/Highlights/Security-Advisory-Credit/SVG/Security-Advisory-Credit_DarkMode.svg#gh-light-mode-only) | Security advisory credit | Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted |
 
-<br>
-
 ### ❌Badges no longer earnable
-<br>
 
 | Badge | Name | How to get | Needed amount | 
 | :-: | :-: | :-: | :-: |
